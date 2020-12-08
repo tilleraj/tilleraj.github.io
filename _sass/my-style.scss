@@ -1,3 +1,5 @@
+@import './bootstrap/bootstrap.scss';
+
 .dl-table {
   a {
     @supports ((text-decoration-thickness: initial) and (text-underline-offset: initial)) {

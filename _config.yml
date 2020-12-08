@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# url:                   https://username.github.io
+# url:                   https://tilleraj.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
+# baseurl:               ''
 
 
 # General settings
@@ -20,7 +20,7 @@
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Hydejack
+title:                 Andrew Tiller
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
@@ -41,11 +41,14 @@ logo:                  /assets/img/logo.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
+  social:
+    twitter: tilleraj
+    github: tilleraj
   # Used by `jekyll-feed`:
-  name:                <firstname> <lastname>
-  email:               <mail@domain.tld>
+  name:                Andrew Tiller
+  email:               tiller.andrew@gmail.com
   # # Used by `jekyll-seo-tag`:
-  # twitter:             <username>
+  # twitter:             tilleraj
 
 # Add links to the sidebar.
 menu:
@@ -55,6 +58,8 @@ menu:
     url:               /docs/
   - title:             About
     url:               /about/
+  - title:             Blog
+    url:               /blog/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -74,7 +79,7 @@ permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              10
-paginate_path:         /:num/
+paginate_path:         /blog/:num/
 
 
 # Collections
@@ -342,7 +347,7 @@ plugins:
 
 # Used for twitter cards
 # twitter:
-#   username:            <username>
+#   username:            tilleraj
 
 # Used for facebook open graph
 # facebook:
@@ -352,10 +357,10 @@ plugins:
 
 # Used on index and about sites
 # social:
-#   name:                <firstname> <lastname>
+#   name:                Andrew Tiller
 #   links:
-#     - https://twitter.com/<username>
-#     - https://github.com/<username>
+#     - https://twitter.com/tilleraj
+#     - https://github.com/tilleraj
 
 
 # Plugin Configs
