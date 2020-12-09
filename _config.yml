@@ -56,8 +56,10 @@ menu:
     url:               /example/
   - title:             Documentation
     url:               /docs/
-  - title:             About
-    url:               /about/
+  - title:             About Andrew
+    url:               /about-andrew/
+  - title:             About Hope
+    url:               /about-hope/
   - title:             Blog
     url:               /blog/
 

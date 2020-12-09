@@ -8,9 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    Andrew is a Nashville native Audio Engineer turned Software Developer.
-    
-    Open `_data/authors.yml` to edit this text.
+    Born and raised in Nashville, Andrew got his start in IT and the Music Industry. A former IT Technician, Stage Hand, Audio Engineer, and Middle School Lacrosse Coach, he is now an ETL developer who tinkers with PC Water Cooling and plays video games in his free time. 
 
   # This photo will be used in the about section
   picture:
@@ -69,10 +67,8 @@ author2:
   name:              Hope Siler
   email:             silerhope@gmail.com
   about:             |
-    Hope is an Entrepeneur with hardcore hustle.
-
-    Open `_data/authors.yml` to edit this text.
+    Hope draws on years of first hand experience working different festivals when creating new event concepts. She executes them with a signature blend of creativity and moxie that always gets results. She applies her past experience in corporate sponsorship, PR, and SEO to enhancing clients’ events and making them stand out in Nashville’s busy market. When Hope's not event planning, you can find her in the DJ booth at Lightning 100 or making jewelry for her home goods company, Siler Sisters.
 
   picture:           https://placehold.it/128x128
-  twitter:           <username>
-  github:            <username>
+  # twitter:           <username>
+  # github:            <username>
