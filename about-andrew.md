@@ -42,7 +42,7 @@ author: author1
       <div class="card">
         <img class="card-img-top" src="/assets/img/projects/hitcharide.png" alt="hitcharide">
         <div class="card-body">
-          <h5 class="card-title"><a href="https://github.com/tilleraj/https://github.com/tilleraj/hitch-a-ride">Hitch a Ride</a></h5>
+          <h5 class="card-title"><a href="https://github.com/tilleraj/hitch-a-ride">Hitch a Ride</a></h5>
           <p class="card-text">A webapp designed to help people carpool to/from my wedding</p>
         </div>
       </div>
@@ -81,124 +81,123 @@ author: author1
 </div>
 
 ### Using:
-  <div class="row technologies text-center justify-content-left">
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/git.png" alt="git">
-        <p class="logo-text">Git</p>
-      </div>
-    </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/github.png" alt="github">
-        <p class="logo-text">Github</p>
-      </div>
-    </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/heroku.png" alt="heroku">
-        <p class="logo-text">Heroku</p>
-      </div>
-    </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/Slack.png" alt="slack">
-        <p class="logo-text">Slack</p>
-      </div>
-    </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/vscode.png" alt="vscode">
-        <p class="logo-text">VSCode</p>
-      </div>
-    </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/vim.png" alt="vim">
-        <p class="logo-text">Vim</p>
-      </div>
+<div class="row technologies text-center justify-content-left">
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/git.png" alt="git">
+      <p class="logo-text">Git</p>
     </div>
   </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/github.png" alt="github">
+      <p class="logo-text">Github</p>
+    </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/heroku.png" alt="heroku">
+      <p class="logo-text">Heroku</p>
+    </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/Slack.png" alt="slack">
+      <p class="logo-text">Slack</p>
+    </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/vscode.png" alt="vscode">
+      <p class="logo-text">VSCode</p>
+    </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/vim.png" alt="vim">
+      <p class="logo-text">Vim</p>
+    </div>
+  </div>
+</div>
 
 ## Other Technologies:
-  <div class="row technologies text-center justify-content-left">
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/bootstrap.png" alt="bootstrap">
-        <p class="logo-text">Bootstrap</p>
-      </div>
+<div class="row technologies text-center justify-content-left">
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/bootstrap.png" alt="bootstrap">
+      <p class="logo-text">Bootstrap</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/csharp.png" alt="csharp">
-        <p class="logo-text">CSharp</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/csharp.png" alt="csharp">
+      <p class="logo-text">CSharp</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/css.png" alt="css">
-        <p class="logo-text">CSS</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/css.png" alt="css">
+      <p class="logo-text">CSS</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/dotnetcore.png" alt="dotnet core">
-        <p class="logo-text">.NET Core</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/dotnetcore.png" alt="dotnet core">
+      <p class="logo-text">.NET Core</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/html.png" alt="html">
-        <p class="logo-text">HTML</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/html.png" alt="html">
+      <p class="logo-text">HTML</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/jquery.png" alt="jquery">
-        <p class="logo-text">JQuery</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/jquery.png" alt="jquery">
+      <p class="logo-text">JQuery</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/js.png" alt="javascript">
-        <p class="logo-text">JavaScript</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/js.png" alt="javascript">
+      <p class="logo-text">JavaScript</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/jsx.png" alt="jsx">
-        <p class="logo-text">JSX</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/jsx.png" alt="jsx">
+      <p class="logo-text">JSX</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/npm.png" alt="npm">
-        <p class="logo-text">NPM</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/npm.png" alt="npm">
+      <p class="logo-text">NPM</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/react.png" alt="react">
-        <p class="logo-text">React</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/react.png" alt="react">
+      <p class="logo-text">React</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/sass1.png" alt="sass">
-        <p class="logo-text">Sass</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/sass1.png" alt="sass">
+      <p class="logo-text">Sass</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/ssms.png" alt="ssms">
-        <p class="logo-text">SSMS</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/ssms.png" alt="ssms">
+      <p class="logo-text">SSMS</p>
     </div>
-    <div class="col-3 col-md-2">
-      <div class="logo">
-        <img class="logo-img img-fluid" src="/assets/img/technologies/vstudio.png" alt="visual studio">
-        <p class="logo-text">Visual Studio</p>
-      </div>
+  </div>
+  <div class="col-3 col-md-2">
+    <div class="logo">
+      <img class="logo-img img-fluid" src="/assets/img/technologies/vstudio.png" alt="visual studio">
+      <p class="logo-text">Visual Studio</p>
     </div>
   </div>
 </div>
