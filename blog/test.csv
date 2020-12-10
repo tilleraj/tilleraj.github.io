@@ -1,0 +1,9 @@
+|Name               |Wide (px)  |Tall (px)  |Ratio  |Size (in)  |PPI        |Comment                                            |
+|-------------------|-----------|-----------|-------|-----------|-----------|---------------------------------------------------|
+|UHD                |3840       |2160       |16:9   |27         |163.18     |WAY too small                                      |
+|UHD 200% scaling   |1920       |1080       |16:9   |27         |81.59      |WAY too big                                        |
+|UHD 150% scaling   |2560       |1440       |16:9   |27         |108.79     |Literally just my reccomendation                   |
+|UHD                |3840       |2160       |16:9   |32         |137.68     |WAY too small                                      |
+|UHD 150% scaling   |2560       |1440       |16:9   |32         |91.79      |Usable but scaled                                  |
+|UHD 125% scaling   |3072       |1728       |16:9   |32         |110.15     |Usable but scaled                                  |
+|UHD                |3840       |2160       |16:9   |43         |102.46     |Just right but do you have 38" of desk to spare?   |
